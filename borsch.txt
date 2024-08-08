@@ -4654,3 +4654,4 @@ flex 700 20
 flex 700 21
 flex 700 22
 flex 700 23
+flex 700 24
