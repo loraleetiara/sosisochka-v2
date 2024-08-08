@@ -4656,3 +4656,4 @@ flex 700 22
 flex 700 23
 flex 700 24
 flex 700 25
+flex 700 26
