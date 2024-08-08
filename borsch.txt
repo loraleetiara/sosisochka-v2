@@ -4648,3 +4648,4 @@ flex 700 14
 flex 700 15
 flex 700 16
 flex 700 17
+flex 700 18
