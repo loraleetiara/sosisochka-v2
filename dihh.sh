@@ -1,7 +1,7 @@
 #!/bin/bash
 
-DAYS_BACK=700
-COMMITS_PER_DAY=4000
+DAYS_BACK=300
+COMMITS_PER_DAY=7890
 
 echo "Погнали крутить счётчик для кота..."
 
