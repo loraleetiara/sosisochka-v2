@@ -22,3 +22,4 @@ flex 300 21
 flex 300 22
 flex 300 23
 flex 300 24
+flex 300 25
